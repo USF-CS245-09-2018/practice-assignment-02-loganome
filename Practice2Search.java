@@ -1,3 +1,5 @@
+package pa2;
+
 public interface Practice2Search {
 
 	public String searchName();
